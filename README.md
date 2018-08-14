@@ -60,10 +60,15 @@ Untuk contoh pertama, terdapat 1 kemungkinan pasangan murid yang akan tampil: sa
 
 Untuk contoh kedua, terdapat 4 kemungkinan pasangan murid yang akan tampil:
 
+
 murid 1 kelas 6A dan murid 1 kelas 6B; total waktu = 1 + 3 = 4 detik
+
 murid 1 kelas 6A dan murid 2 kelas 6B; total waktu = 1 + 4 = 5 detik
+
 murid 2 kelas 6A dan murid 1 kelas 6B; total waktu = 2 + 3 = 5 detik
+
 murid 2 kelas 6A dan murid 2 kelas 6B; total waktu = 2 + 4 = 6 detik
+
 Total waktu yang dibutuhkan adalah 4 + 5 + 5 + 6 = 20 detik.
 
 
